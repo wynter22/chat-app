@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "chat-ui",
+    "slug": "chat-ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "chat-ui"
+}
